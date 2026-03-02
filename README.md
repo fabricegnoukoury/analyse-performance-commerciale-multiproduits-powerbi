@@ -7,8 +7,6 @@ De la donnée brute aux insights business : modélisation Power BI (schéma en �
 ### Mesure de la performance
 
 ![Dashboard performance](04_Dashboards/dashboard-performance - 1.png)
-![Dashboard performance](04_Dashboards/dashboard-performance - 2.png)
-![Dashboard performance](04_Dashboards/dashboard-performance - 3.png)
 
 
 ## 🎯 Objectif du projet
