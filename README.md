@@ -45,8 +45,8 @@ Captures des tableaux de bord développés
 
 ## 🛠️ Outils utilisés
 
-- Power BI
 - Power Query
+- Power BI
 - DAX
 
 ---
