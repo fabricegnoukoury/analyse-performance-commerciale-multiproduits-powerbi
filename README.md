@@ -1,6 +1,6 @@
 # Analyse de performance commerciale multi-produits — Power BI & Analyse financière
 
-## Contexte:
+## Contexte
 
 Une entreprise internationale commercialise plusieurs produits dans différents pays et segments clients. La croissance du chiffre d’affaires ne se traduit pas systématiquement par une amélioration du profit.
 
